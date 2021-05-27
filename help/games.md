@@ -1,4 +1,4 @@
-## Back: [Main](./readme.md)
+## Back: [Main](https://github.com/RG2N/RGHub/blob/main/readme.md)
 
 # Supported Games:
 
