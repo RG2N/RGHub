@@ -9,7 +9,7 @@ loadstring(game:HttpGet(('http://bit.ly/RGHubScript'), true)) ()
 ### Trouble Shooting:
 [My game is crashing!](https://github.com/RG2N/RGHub/blob/main/help/crashing.md)
 
-## Credits
+### Credits:
 RG2N
 
 j4k3_j4c0b
