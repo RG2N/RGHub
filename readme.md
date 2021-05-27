@@ -1,8 +1,10 @@
 # RGHub 
 
-### Load String: loadstring(game:HttpGet(('http://bit.ly/RGHubScript'), true)) ()
+### Load String: 
+loadstring(game:HttpGet(('http://bit.ly/RGHubScript'), true)) ()
 
-### Supported Games: [Games Page](https://github.com/RG2N/RGHub/blob/main/help/games.md)
+### Extra Pages: 
+[Games Page](https://github.com/RG2N/RGHub/blob/main/help/games.md)
 
 ## Credits
 RG2N
