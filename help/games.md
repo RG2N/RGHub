@@ -1,4 +1,4 @@
-## Back: [Main](readme.md)
+## Back: [Main](./readme.md)
 
 # Supported Games:
 
