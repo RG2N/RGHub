@@ -10,6 +10,8 @@ elseif game.placeId == 621129760 then
     message.Text  = "CTRL to lock on someone. Alt to enable ESP."
         wait(6)
         message:Destroy()
+elseif game.placeId == 286090429 then
+    loadstring(game:HttpGet(('https://pastebin.com/raw/FaQY15FF'), true)) ()
 else
     local message = Instance.new("Message", workspace)
     message.Text  = "Game not supported!"
