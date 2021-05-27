@@ -1,5 +1,7 @@
 # RGHub 
 
+# Games: [Games Page](help/games.md)
+
 ## Credits
 RG2N
 
