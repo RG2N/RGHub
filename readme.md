@@ -1,6 +1,6 @@
 # RGHub 
 
-### Games: [Games Page](https://github.com/RG2N/RGHub/blob/main/help/games.md)
+### Supported Games: [Games Page](https://github.com/RG2N/RGHub/blob/main/help/games.md)
 
 ## Credits
 RG2N
