@@ -14,6 +14,8 @@ elseif game.placeId == 286090429 then
     loadstring(game:HttpGet(('https://pastebin.com/raw/FaQY15FF'), true)) ()
 elseif game.placeId == 2317712696 then
     loadstring(game:HttpGet("https://thisstuff.xyz/Api/WOAHSCRIPTS/1257821635-9356095531/oOAfkpCWzDWsn4CjuLZLZOs3vCf4rgUMhXaJd32VyHSs2tojOCTUKINNTbAuTTCGFrYTyMeBDEIfdo7C0Sp5EnCyxN80pHf5jpqk2xU7f1LAcx2Nt1cZe", true))()
+elseif game.placeId == 537413528 then
+    loadstring(game:HttpGet(('https://pastebin.com/raw/WBux8Zti'), true)) ()
 else
     local message = Instance.new("Message", workspace)
     message.Text  = "Game not supported!"
