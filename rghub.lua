@@ -5,16 +5,20 @@ if game.placeId == 142823291 then
 	loadstring = loadstring(game:HttpGet(('https://raw.githubusercontent.com/RG2N/RGHub/v2/scripts/mm2.lua'), true)) ()
 	TextLabel_2.Text = "Supported: Murder Mystery 2"
 elseif game.placeId == 2788229376 then
-    loadstring = loadstring(game:HttpGet(('https://pastebin.com/raw/GZWNs9uv'), true)) ()
+    	loadstring = loadstring(game:HttpGet(('https://pastebin.com/raw/GZWNs9uv'), true)) ()
 	TextLabel_2.Text = "Supported: Da Hood"
 elseif game.placeId == 621129760 then
+	loadstring = loadstring(game:HttpGet(('https://raw.githubusercontent.com/RG2N/RGHub/v2/scripts/kat!.lua'), true)) ()
 	TextLabel_2.Text = "Supported: KAT!"
 elseif game.placeId == 286090429 then
-    loadstring(game:HttpGet(('https://pastebin.com/raw/FaQY15FF'), true)) ()
+    	loadstring = loadstring(game:HttpGet(('https://pastebin.com/raw/FaQY15FF'), true)) ()
+	TextLabel_2.Text = "Supported: Arsenal"
 elseif game.placeId == 2317712696 then
-    loadstring(game:HttpGet("https://thisstuff.xyz/Api/WOAHSCRIPTS/1257821635-9356095531/oOAfkpCWzDWsn4CjuLZLZOs3vCf4rgUMhXaJd32VyHSs2tojOCTUKINNTbAuTTCGFrYTyMeBDEIfdo7C0Sp5EnCyxN80pHf5jpqk2xU7f1LAcx2Nt1cZe", true))()
+    	loadstring = loadstring(game:HttpGet("https://thisstuff.xyz/Api/WOAHSCRIPTS/1257821635-9356095531/oOAfkpCWzDWsn4CjuLZLZOs3vCf4rgUMhXaJd32VyHSs2tojOCTUKINNTbAuTTCGFrYTyMeBDEIfdo7C0Sp5EnCyxN80pHf5jpqk2xU7f1LAcx2Nt1cZe", true))()
+	TextLabel_2.Text = "Supported: The Wild West"
 elseif game.placeId == 537413528 then
-    loadstring(game:HttpGet(('https://pastebin.com/raw/WBux8Zti'), true)) ()
+    	loadstring = loadstring(game:HttpGet(('https://pastebin.com/raw/WBux8Zti'), true)) ()
+	TextLabel_2.Text = "Supported: Build A Boat For Treasure"
 end
 
 -- Gui to Lua
