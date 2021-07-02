@@ -2,15 +2,13 @@
 local loadstring = loadstring(game:HttpGet(('link'),true))()
 
 if game.placeId == 142823291 then
+	loadstring = loadstring(game:HttpGet(('https://raw.githubusercontent.com/RG2N/RGHub/v2/scripts/mm2.lua'), true)) ()
 	TextLabel_2.Text = "Supported: Murder Mystery 2"
 elseif game.placeId == 2788229376 then
-    loadstring(game:HttpGet(('https://pastebin.com/raw/GZWNs9uv'), true)) ()
+    loadstring = loadstring(game:HttpGet(('https://pastebin.com/raw/GZWNs9uv'), true)) ()
+	TextLabel_2.Text = "Supported: Da Hood"
 elseif game.placeId == 621129760 then
-    loadstring(game:HttpGet(('https://pastebin.com/raw/uCSJY8we'), true)) ()
-    local message = Instance.new("Message", workspace)
-    message.Text  = "CTRL to lock on someone. Alt to enable ESP."
-        wait(6)
-        message:Destroy()
+	TextLabel_2.Text = "Supported: KAT!"
 elseif game.placeId == 286090429 then
     loadstring(game:HttpGet(('https://pastebin.com/raw/FaQY15FF'), true)) ()
 elseif game.placeId == 2317712696 then
